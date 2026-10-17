@@ -35,7 +35,6 @@
 - **[IP 形象指南](https://github.com/Jianing1117/jianing-skills/tree/main/ip-cartoon-guide)**<br>从一张照片做出可以反复使用的个人 IP 卡通形象，再用同一个角色画文章和项目的配图。
 - **[Super Slides 演示稿](https://github.com/Jianing1117/jianing-skills/tree/main/super-slides)**<br>先定大纲再做设计，生成一份打开就能放映的网页演示稿，需要时再导出 PDF 或 PPT。
 - **[公众号排版](https://github.com/Jianing1117/jianing-skills/tree/main/wechat-formatter)**<br>把一篇 Markdown 文章按文章类型自动选版式，转成能直接粘贴进公众号后台的排版，同时生成封面图。
-
 - **[Screen Studio 智能初剪](https://github.com/Jianing1117/screenstudio-edit)**<br>让 AI 给 Screen Studio 录屏做初剪：剪掉空白停顿、失败的重录和口误，另存一个还能继续精修的工程副本，原工程一个字节都不改。重活由本机脚本完成，AI 只读转写文字，token 用得很少。
 
 ## 🤝 几条约定

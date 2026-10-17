@@ -33,7 +33,6 @@ Skills live in [jianing-skills](https://github.com/Jianing1117/jianing-skills) !
 - **[IP Cartoon Guide](https://github.com/Jianing1117/jianing-skills/tree/main/ip-cartoon-guide)**<br>One photo in, a reusable cartoon version of you out. The same character then illustrates everything you publish.
 - **[Super Slides](https://github.com/Jianing1117/jianing-skills/tree/main/super-slides)**<br>Outline first, design second. The deck runs in the browser and is ready to present; export to PDF or PowerPoint when you need to.
 - **[WeChat Formatter](https://github.com/Jianing1117/jianing-skills/tree/main/wechat-formatter)**<br>Markdown in, WeChat-ready HTML out. It picks a layout to suit the article and throws in a cover image.
-
 - **[Screen Studio Rough Cut](https://github.com/Jianing1117/screenstudio-edit)**<br>Rough-cuts a Screen Studio recording: dead air, failed retakes, and verbal slips come out, your manual edits stay in. Saves a project copy you can keep refining; the original is never touched. Local scripts do the hard part; the AI only reads the transcript.
 
 ## 🤝 Ground rules
