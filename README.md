@@ -6,7 +6,7 @@ I'm an investor and AI founder, not much of a programmer. Claude Code and Codex 
 
 On Chinese social media I'm 加宁慢慢来, roughly "Jianing, take your time," with 100k+ followers across platforms. [Long Arc Society](https://www.longarcsociety.com/) is where all of it settles into long form: harnessing AI, harnessing the self, and compounding assets.
 
-[Website](https://www.longarcsociety.com/) · [Xiaohongshu](https://www.xiaohongshu.com/user/profile/55890848c2bdeb25c82b6d10) · [X](https://x.com/JianingXiong)
+[X](https://x.com/JianingXiong) · [Website](https://www.longarcsociety.com/) · [Xiaohongshu](https://www.xiaohongshu.com/user/profile/55890848c2bdeb25c82b6d10)
 
 ## 🧰 Projects
 
