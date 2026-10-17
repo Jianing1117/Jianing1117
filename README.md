@@ -35,14 +35,6 @@ Skills live in [jianing-skills](https://github.com/Jianing1117/jianing-skills) !
 - **[WeChat Formatter](https://github.com/Jianing1117/jianing-skills/tree/main/wechat-formatter)**<br>Markdown in, WeChat-ready HTML out. Picks a layout to suit the article and throws in a cover image.
 - **[Screen Studio Smart Rough Cut](https://github.com/Jianing1117/screenstudio-edit)**<br>The tedious half of editing, done. Dead air, failed retakes, and verbal slips come out of your Screen Studio recording; your manual edits stay in; the original is never touched. Local scripts do the hard part, the AI only reads the transcript.
 
-## 🤝 Ground rules
-
-- Only what I use myself, and still do.
-- All code is public. No product pitches.
-- Your data stays yours. The checkup runs in your browser; NotchPad stores everything in Apple's own Reminders and Notes.
-- Nothing touches your files without asking. Deletes go to the Trash; MindMirror asks what it may read before it reads anything.
-- As simple as the job allows, and no simpler.
-
 ---
 
 Think long. Grow slowly. Compound quietly.

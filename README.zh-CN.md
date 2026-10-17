@@ -37,14 +37,6 @@
 - **[公众号排版](https://github.com/Jianing1117/jianing-skills/tree/main/wechat-formatter)**<br>把一篇 Markdown 文章按文章类型自动选版式，转成能直接粘贴进公众号后台的排版，同时生成封面图。
 - **[Screen Studio 智能初剪](https://github.com/Jianing1117/screenstudio-edit)**<br>让 AI 给 Screen Studio 录屏做初剪：剪掉空白停顿、失败的重录和口误，另存一个还能继续精修的工程副本，原工程一个字节都不改。重活由本机脚本完成，AI 只读转写文字，token 用得很少。
 
-## 🤝 几条约定
-
-- 只放自己用过且觉得有价值的内容。
-- 代码全部公开，不推荐任何产品。
-- 数据留在你自己手里。财务体检只存在你的浏览器里，刘海记用的是苹果自带的提醒事项和备忘录。
-- 动你的东西之前先问。电脑体检删除只进废纸篓，MindMirror 读你的材料之前先确认范围。
-- 所有流程代码在不影响目的前提下，尽量简洁。
-
 工具背后的方法和故事，我写在 [longarcsociety.com](https://www.longarcsociety.com/)，分驾驭 AI、个人迭代、复利资产三条线。
 
 ---
