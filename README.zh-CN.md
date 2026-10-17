@@ -8,7 +8,7 @@
 
 我不是工程师出身，这里的工具都是和 Claude Code、Codex 一起做出来的。每一个都是先解决我自己的一个具体问题，自己用顺了，再整理成公开版放上来。
 
-[网站](https://www.longarcsociety.com/) · [小红书](https://www.xiaohongshu.com/user/profile/55890848c2bdeb25c82b6d10) ·  [X](https://x.com/JianingXiong)
+[X](https://x.com/JianingXiong) · [网站](https://www.longarcsociety.com/) · [小红书](https://www.xiaohongshu.com/user/profile/55890848c2bdeb25c82b6d10)
 
 ## 🧰 作品
 
